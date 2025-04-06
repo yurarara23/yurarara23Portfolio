@@ -5,8 +5,8 @@ layout: home
 hero:
   name: yurarara23
   image:
-    src: /nanatimaru.png
-    alt: icon
+    src: ${base}/nanatimaru.png
+    alt: icon:v1.1
   
   actions:
     - theme: brand
