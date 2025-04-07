@@ -20,10 +20,12 @@ features:
 
   - title: 技術まとめ
     details: 制作中
-            
 
+  - title: portfolio
+    details: Vue.js,VitePress,GithubPages
+            
   - title: シラバス検索サイト
-    details: 情報科の2年しかまだ対応してないです
+    details: next.js,bootstrap,vercel (現状情報科の2年のみ対応）
     link: https://syllabus-box.vercel.app/
 
   - title: やることリストwithゆかりさん
