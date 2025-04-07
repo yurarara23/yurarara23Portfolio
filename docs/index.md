@@ -5,7 +5,7 @@ layout: home
 hero:
   name: yurarara23
   image:
-    src: ${base}/nanatimaru.png
+    src: /nanatimaru.png
     alt: icon:v1.1
   
   actions:
@@ -27,8 +27,12 @@ features:
     link: https://syllabus-box.vercel.app/
 
   - title: やることリストwithゆかりさん
-    details: 始めて作ったサイト
+    details: 始めて作ったサイト 
     link: https://yukari-to-do.vercel.app/
+
+  - title: 
+    details: ↑で使わせていただいたイラスト
+    link: https://seiga.nicovideo.jp/seiga/im10564427
 
   - title: VRC-fps-world
     details: 制作中
