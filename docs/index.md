@@ -33,10 +33,10 @@ features:
     link: https://yukari-to-do.vercel.app/
 
   - title: 
-    details: ↑で使わせていただいたイラスト
+    details: リストで使わせていただいたイラスト
     link: https://seiga.nicovideo.jp/seiga/im10564427
 
-  - title: VRC-fps-world
+  - title: VRC関連
     details: 制作中
   
 ---
