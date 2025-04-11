@@ -18,11 +18,15 @@ hero:
 
 features:
 
-  - title: 技術まとめ
+  - title: 技術note
     details: 制作中
 
   - title: portfolio
     details: Vue.js,VitePress,GithubPages
+
+  - title: akane.bot
+    details: gpt4o,python,discord
+    link: /note/discordbot.md
             
   - title: シラバス検索サイト
     details: next.js,bootstrap,vercel (現状情報科の2年のみ対応）
@@ -33,8 +37,12 @@ features:
     link: https://yukari-to-do.vercel.app/
 
   - title: 
-    details: リストで使わせていただいたイラスト
+    details: 使わせていただいたイラスト
     link: https://seiga.nicovideo.jp/seiga/im10564427
+
+  - title: 
+    details: 使わせていただいたイラスト
+    link: 
 
   - title: VRC関連
     details: 制作中
