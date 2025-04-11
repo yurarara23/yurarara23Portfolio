@@ -5,7 +5,7 @@ layout: home
 hero:
   name: yurarara23
   image:
-    src: /nanatimaru.png
+    src: /yurarara23Portfolio/nanatimaru.png
     alt: icon:v1.1
   
   actions:
@@ -42,7 +42,7 @@ features:
 
   - title: 
     details: 使わせていただいたイラスト
-    link: 
+    link: https://ext.seiga.nicovideo.jp/seiga/im10569073
 
   - title: VRC関連
     details: 制作中
